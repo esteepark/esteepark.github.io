@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: idPlanet
+title: iPlanet
 email: esteepark8@gmail.com
 description: Estee's awesome blog powered by jekyll.
 url: https://esteepark.github.io/ # the base hostname & protocol for your site
@@ -37,6 +37,7 @@ kramdown:
 owner:
   name: esteepark
   avatar: avatar.png
+  logo: imaru-logo.png
   job: "Service Designer & Entrepreneur"
   bio: "An entrepreneur who loves technology awesome things. Supporting for young makers education. Korea."
   email: esteepark8@gmail.com

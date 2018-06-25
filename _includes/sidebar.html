@@ -1,5 +1,11 @@
 {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
 
+# esteepark
+<div class="cover-card table-cell table-middle">
+  {% if author.logo %}
+  <img src="{{ site.url }}/img/{{ author.logo }}" alt="" class="imaru-logo">
+  {% endif %}
+
 <div class="cover-card table-cell table-middle">
   {% if author.avatar %}
   <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
