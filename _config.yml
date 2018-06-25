@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Planet
+title: idPlanet
 email: esteepark8@gmail.com
 description: Estee's awesome blog powered by jekyll.
 url: https://esteepark.github.io/ # the base hostname & protocol for your site
-keywords: ["Service Design", "Python", "Front-end"]
+keywords: ["Service Design", "Entrepreneur", "AI"]
 
 #
 ###################################
@@ -38,7 +38,7 @@ owner:
   name: esteepark
   avatar: avatar.png
   job: "Service Designer & Entrepreneur"
-  bio: "An entrepreneur who loves technology awesome things. \nSupporting for young makers education. Korea."
+  bio: "An entrepreneur who loves technology awesome things. Supporting for young makers education. Korea."
   email: esteepark8@gmail.com
   disqus-shortname: iPlanet
   twitter: esteepark8 #username
@@ -52,7 +52,7 @@ owner:
   bing-verify:
   github: esteepark #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: esteepark #username
+  linkedin: esteepark8 #username
   xing: #username
   instagram: esteepark8 #username
   lastfm: #username
