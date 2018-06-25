@@ -16,7 +16,7 @@ keywords: ["Service Design", "Python", "Front-end"]
 #
 timezone:          Korea/Seoul
 markdown:          kramdown
-highlighter:       python
+highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
 
@@ -36,11 +36,11 @@ kramdown:
 #
 owner:
   name: esteepark
-  avatar: imaru-logo.png
-  job: "Python & Service Designer"
-  bio: "An entrepreneur who loves technology awesome things. Supporting for young maker education. Korea."
+  avatar: avatar.png
+  job: "Service Designer & Entrepreneur"
+  bio: "An entrepreneur who loves technology awesome things. \nSupporting for young makers education. Korea."
   email: esteepark8@gmail.com
-  disqus-shortname: Planet
+  disqus-shortname: iPlanet
   twitter: esteepark8 #username
   facebook: esteepark8 #username
   google:
