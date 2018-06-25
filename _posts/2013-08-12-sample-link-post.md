@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Sample Link Post"
+title: "Sample Modify Post"
 excerpt: "Try click on the link icon."
 categories: [link post]
-link: http://renyuanz.github.io
+link: http://esteeparks.github.io
 share: true
 ---
 
@@ -11,4 +11,4 @@ This theme supports **link posts**, made famous by John Gruber. To use, just add
 
 > And this is how a quote looks.
 
-Some [link](http://renyuanz.github.io) can also be shown.
+Some [link](http://esteepark.github.io) can also be shown.

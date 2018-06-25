@@ -3,22 +3,23 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+title: Planet
+email: esteepark8@gmail.com
+description: Estee's awesome blog powered by jekyll.
+url: https://esteepark.github.io/ # the base hostname & protocol for your site
+keywords: ["Service Design", "Python", "Front-end"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Korea/Seoul
 markdown:          kramdown
-highlighter:       rouge
+highlighter:       python
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
+
 
 kramdown:
   auto_ids: true
@@ -27,32 +28,33 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+
 #
 ###################################
 # Site Owner configuration
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
-  facebook: #username
+  name: esteepark
+  avatar: imaru-logo.png
+  job: "Python & Service Designer"
+  bio: "An entrepreneur who loves technology awesome things. Supporting for young maker education. Korea."
+  email: esteepark8@gmail.com
+  disqus-shortname: Planet
+  twitter: esteepark8 #username
+  facebook: esteepark8 #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: esteepark #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin: esteepark #username
   xing: #username
-  instagram: #username
+  instagram: esteepark8 #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
