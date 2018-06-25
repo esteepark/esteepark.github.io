@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Estee's iPlane! powered by Jekyll!"
+title:  "Welcome to Estee's iPlanet! powered by Jekyll!"
 date:   2015-08-18 15:07:19
 categories: [tutorial]
 comments: true
