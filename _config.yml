@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: h-pslanet
+title: h-planet
 email: esteepark8@gmail.com
-description: Estee's awesome blog powered by jekyll.
+description: Estee's awesome blog powered by jekyll with leonids theme.
 url: https://esteepark.github.io/ # the base hostname & protocol for your site
 keywords: ["Service Design", "Entrepreneur", "AI"]
 
