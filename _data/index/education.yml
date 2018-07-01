@@ -1,8 +1,20 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+- name: Modulabs, Deeplearning | Linux | Flipped Learning
+  link: http://www.modulabs.co.kr/
+  date: 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   descr: <br> (expected graduation in 2019)
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Gachon University, Start-up Lecture
+  link: http://www.gachon.ac.kr/community/opencampus/
+  date: 2018 - 2018
+
+- name: Korea Internet Professional Association, IoT Professional Training
+  link: http://www.kipfa.or.kr/
+  date: 2017 - 2017
+
+- name: Startup Lab, Smart Creative Start-up Lecture
+  link: https://www.startuplab.co.kr/
+  date: 2016 - 2016
+
+- name: Sookmyung Women's University, IT Engineering
+  link: http://www.sookmyung.ac.kr/sookmyungkr/index.do
+  date: 2009 - 2018
