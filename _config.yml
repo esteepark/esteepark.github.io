@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: iPlanet
+title: H-Planet
 email: esteepark8@gmail.com
 description: Estee's awesome blog powered by jekyll.
 url: https://esteepark.github.io/ # the base hostname & protocol for your site
