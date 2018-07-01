@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: H-Planet
+title: h-pslanet
 email: esteepark8@gmail.com
 description: Estee's awesome blog powered by jekyll.
 url: https://esteepark.github.io/ # the base hostname & protocol for your site
@@ -38,9 +38,9 @@ owner:
   name: esteepark
   avatar: avatar.png
   job: "Service Designer & Entrepreneur"
-  bio: "An entrepreneur who loves technology awesome things. Supporting for young makers education. Korea."
+  bio: "An entrepreneur who loves technology awesome things. Supporting young maker education. Korea."
   email: esteepark8@gmail.com
-  disqus-shortname: iPlanet
+  disqus-shortname: h-planet
   twitter: esteepark8 #username
   facebook: esteepark8 #username
   google:
