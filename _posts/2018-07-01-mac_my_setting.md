@@ -258,10 +258,10 @@ comments: true
     - v config.conf
 
 ###### 프로젝트 버전관리 pyenv-virtualenv-autoenv 설치
-    - https://wayhome25.github.io/django/2017/04/29/python-dev-environments/
-    - 파이썬 버전 관리 프로그램 pyenv 설치
-        - brew update
-        - brew install pyenv
+>    - https://wayhome25.github.io/django/2017/04/29/python-dev-environments/
+>    - 파이썬 버전 관리 프로그램 pyenv 설치
+>        - brew update
+>        - brew install pyenv
         - v .zshrc
             - #+
             - export PYENV_ROOT=/usr/local/var/pyenv
