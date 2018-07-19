@@ -1,9 +1,9 @@
 ---
 layout: post
-title: " "
-excerpt: " "
+title: "title"
+excerpt: ""
 categories: [paragraph]
-date: 2018-- ::
+date: 2018-07-00 00:00:00
 comments: true
 ---
 

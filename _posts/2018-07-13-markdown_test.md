@@ -1,10 +1,10 @@
 
 ---
 layout: post
-title: " "
-excerpt: " "
+title: "markdown_ test"
+excerpt: ""
 categories: [paragraph]
-date: 2018-- ::
+date: 2018-07-13 00:00:00
 comments: true
 ---
 
