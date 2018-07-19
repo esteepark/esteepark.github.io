@@ -1,6 +1,14 @@
 ---
-
+layout: post
+title: "Daily-Quration-180716"
+excerpt: ""
+categories: [paragraph]
+date: 2018-07-16 00:00:00
+comments: true
 ---
+
+
+
 
 #### 큐레이션 curation
 

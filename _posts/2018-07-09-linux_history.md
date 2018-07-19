@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "linux history"
-date: 2018-07-09 19:19:19 -0600
-categories: Pairi101 modulabs
+title: "Linux History"
+excerpt: ""
+categories: [paragraph]
+date: 2018-07-09 00:00:00
+comments: true
 ---
 
 운영체제

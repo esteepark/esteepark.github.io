@@ -1,6 +1,12 @@
 ---
-
+layout: post
+title: "Learn git branchin"
+excerpt: ""
+categories: [paragraph]
+date: 2018-07-15 00:00:00
+comments: true
 ---
+
 
 main
 ====
