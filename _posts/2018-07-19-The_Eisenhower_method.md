@@ -13,8 +13,8 @@ You can now put the action into the proper quadrant.
 
 | Urgent | Not Urgent |
 |:-----------|:-----------|
-| Important | Emergencies \nDees\nSome calls | Exercise \nVacation \nPlanning |
-| Not Important | Interrupions \nDistactions \nOther calls | Trivia \nBusy work \nTime Wasters |
+| Important | Emergencies     Dees    Some calls | Exercise     Vacation Planning |
+| Not Important | Interrupions   Distactions    Other calls | Trivia  Busy work   Time Wasters |
 
 - Not urgent and not important:
 > Don't do these, if you spend a lot of time here, 
