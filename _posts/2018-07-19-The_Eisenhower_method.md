@@ -11,8 +11,8 @@ The Eisenhower method helps you organize duties and tasks in dorder to figure ou
 You pick an item from your-to-do list and ask yourself two questions. "Is it urgent," and "Is it important?"
 You can now put the action into the proper quadrant.
 
-| Urgent | Not Urgent |
-|:-----:|:-----:| 
+|| Urgent | Not Urgent |
+|:---:|:---:|:---:| 
 | Important | Emergencies<br/>Deadlines<br/>Some calls | Exercise<br/>Vacation<br/>Planning |
 | Not Important | Interrupions<br/>Distactions<br/>Other calls | Trivia<br/>Busy work<br/>Time Wasters |
 
