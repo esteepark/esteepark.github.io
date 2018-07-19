@@ -14,7 +14,7 @@ You can now put the action into the proper quadrant.
 | Urgent | Not Urgent |
 |:-----------|:-----------|
 | Important | Emergencies<br/>Deeps<br/>Some calls | Exercise<br/>Vacation Planning |
-|:-----------|:-----------|
+|------------|------------|
 | Not Important | Interrupions<br/>Distactions<br/>Other calls | Trivia<br/>Busy work<br/>Time Wasters |
 |:-----------|:-----------|
 
