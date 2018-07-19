@@ -1,9 +1,9 @@
 ---
 layout: post
-title: " "
-excerpt: " "
+title: " The Eisenhower Method "
+excerpt: " How can I spent more useful my time. "
 categories: [paragraph]
-date: 2018-- ::
+date: 2018-07-19 10:23:00
 comments: true
 ---
 
