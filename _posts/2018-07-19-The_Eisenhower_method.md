@@ -12,11 +12,9 @@ You pick an item from your-to-do list and ask yourself two questions. "Is it urg
 You can now put the action into the proper quadrant.
 
 | Urgent | Not Urgent |
-|:-----------|:-----------|
+|:-----:|:-----:| 
 | Important | Emergencies<br/>Deadlines<br/>Some calls | Exercise<br/>Vacation<br/>Planning |
-|------------|------------|
 | Not Important | Interrupions<br/>Distactions<br/>Other calls | Trivia<br/>Busy work<br/>Time Wasters |
-|:-----------|:-----------|
 
 - Not urgent and not important:
 > Don't do these, if you spend a lot of time here, 
