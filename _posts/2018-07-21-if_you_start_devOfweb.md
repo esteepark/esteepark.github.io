@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "개알못인 당신이 웹개발을 시작한다면"
-excerpt: "백엔드 개발자 김대현님의 웹개발을 시작하려는 개알못을 위한 포스팅 총 5편 정리<br/>https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130"
+excerpt: "백엔드 개발자 김대현님의 웹개발을 시작하려는 개알못을 위한 포스팅 총 5편 정리"
 categories: [paragraph]
 date: 2018-07-21 02:22:00
 comments: true
