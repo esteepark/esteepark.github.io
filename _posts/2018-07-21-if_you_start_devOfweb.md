@@ -8,9 +8,13 @@ comments: true
 ---
 
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
+<br/>
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(2)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-2-b1eefc9c12ca)
+<br/>
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(3)]()
+<br/>
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(4)]()
+<br/>
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(5)]()
 <br/>
 <br/>
@@ -20,11 +24,17 @@ comments: true
 - 각 키워드의 상세 내용은 직접 공부
 
 > 투자하는 노력에 비해 눈에 보이는 결과가 보잘 것 없을 수 있습니다. 
+<br/>
 > 남들에게 보잘 것 없어 보여도 괜찮습니다.
+<br/>
 > 내가 만든 서비스가 온라인에 올라갔을때 남들의 평가와는 무관한 행복감을 얻으실 겁니다.
 
+<br/>
+<br/>
 ---
 
+<br/>
+<br/>
 ##### 공부할 주제
 - 프론트엔드 front-end
   - 이용자의 웹브라우저에서 직접적으로 보이는 부분 컨트롤
