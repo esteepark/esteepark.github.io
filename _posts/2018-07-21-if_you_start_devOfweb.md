@@ -8,16 +8,13 @@ comments: true
 ---
 
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
-
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(2)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-2-b1eefc9c12ca)
-
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(3)]()
-
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(4)]()
-
 [HappyProgrammer의 개알못인 당신이 웹개발을 시작한다면(5)]()
-
-###### 연재: 김대현 백엔드 개발자님
+<br/>
+<br/>
+##### 연재: 김대현 백엔드 개발자님
 - 공부해야 할 주제와 키워드 제시
 - 직접 내가 쓸 웹서비스 하나 제작 
 - 각 키워드의 상세 내용은 직접 공부
