@@ -112,6 +112,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 * Item one
 * Item two
 * Item three
+
 ```
 ## List Types
 
