@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "google font for web"
-excerpt: ""
+excerpt: "구글 폰트 중 마음에 드는 것들 KEEP!"
 categories: [paragraph]
 date: 2018-07-24 16:46:00
 comments: true
 ---
 
+```
 <link href="https://fonts.googleapis.com/css?family=Black+And+White+Picture|Cute+Font|Do+Hyeon|Dokdo|East+Sea+Dokdo|Gaegu|Gamja+Flower|Gothic+A1|Gugi|Hi+Melody|Jua|Kirang+Haerang|Nanum+Brush+Script|Nanum+Gothic|Nanum+Gothic+Coding|Nanum+Myeongjo|Nanum+Pen+Script|Poor+Story|Song+Myung|Stylish|Sunflower:300|Yeon+Sung" rel="stylesheet">
-
-(폰트 이미지 링크)[<link href="https://fonts.googleapis.com/css?family=Black+And+White+Picture|Cute+Font|Do+Hyeon|Dokdo|East+Sea+Dokdo|Gaegu|Gamja+Flower|Gothic+A1|Gugi|Hi+Melody|Jua|Kirang+Haerang|Nanum+Brush+Script|Nanum+Gothic|Nanum+Gothic+Coding|Nanum+Myeongjo|Nanum+Pen+Script|Poor+Story|Song+Myung|Stylish|Sunflower:300|Yeon+Sung" rel="stylesheet">]
+```
 
 ##### Specify in CSS: use the following CSS properties  to specify these families:
 
