@@ -15,9 +15,8 @@ comments: true
 
 ##### Specify in CSS: use the following CSS properties  to specify these families:
 
-![한국어 폰트 1](https://www.dropbox.com/s/kl36hn5g62eb8vh/font_ko_1.png?dl=0)
-![dd](https://www.dropbox.com/s/wx0eadpc2w3zi97/font_ko_1.png?dl=0)
-![한국어폰트](https://previews.dropbox.com/p/thumb/AAI4MSlqz9Rr6x0jBm1qojB0dKIY-wbOPcRVlpwacruIMs1QxntWtGYxxKwADzltjGW-ENPNMEJEVELpG6nccNueFHJlFyvNQVlRI0x6Ta6DMJfvpfHETHpwVNGdVJ-yhQL7QE2bXMQhH1ho3mEiNjsTb04AJ5yFNUYxO4x7djccig/p.png?size=2048x1536&size_mode=3)
+![font_ko_1](https://previews.dropbox.com/p/thumb/AAI4MSlqz9Rr6x0jBm1qojB0dKIY-wbOPcRVlpwacruIMs1QxntWtGYxxKwADzltjGW-ENPNMEJEVELpG6nccNueFHJlFyvNQVlRI0x6Ta6DMJfvpfHETHpwVNGdVJ-yhQL7QE2bXMQhH1ho3mEiNjsTb04AJ5yFNUYxO4x7djccig/p.png?size=2048x1536&size_mode=3)
+![font_ko_2](https://previews.dropbox.com/p/thumb/AALtZnfV7YNebYa89QhQbTLV-CpulpIhjKf6FZ2pYpTwiUkQxAfKKg-UPMpUY8NBLAp3CAdawze5s-ddR15dJOC9-bd2P6Z8EYkxnuiYgTlj_WfsYE54UoEQKKJV7w6YRfDVkFF-m461PS1oRN_VriJRSFPdY1qnT6A6XTRlS4MF8Q/p.png?size=2048x1536&size_mode=3)
 
 ```
 font-family: 'Nanum Gothic', sans-serif;
