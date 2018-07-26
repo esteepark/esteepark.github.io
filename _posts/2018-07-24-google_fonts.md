@@ -15,6 +15,7 @@ comments: true
 
 ##### Specify in CSS: use the following CSS properties  to specify these families:
 
+![한국어 폰트 1](https://www.dropbox.com/s/kl36hn5g62eb8vh/font_ko_1.png?dl=0)
 ```
 font-family: 'Nanum Gothic', sans-serif;
 font-family: 'Gaegu', cursive;
