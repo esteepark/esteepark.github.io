@@ -23,9 +23,9 @@ html {
 blockquote {
   display: block;
 	position: relative;
-  padding-left: 20px;
+  padding-left: 13px;
   font-style: italic;
-  border-left: 5px solid $secondary;
+  border-left: 3px solid $secondary3;
 }
 
 //
@@ -92,7 +92,7 @@ small,
 }
 
 p {
-  margin: 1.2em 0;
-  word-spacing: 0.05em;
-  line-height: 1.6em;
+  margin: 0.3em 0;
+  word-spacing: 0.1em;
+  line-height: 0.3em;
 }

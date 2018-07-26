@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mac - MySetting "
-excerpt: "2018-07-01 포맷 후 진행한 맥 세팅"
+excerpt: ""
 categories: [paragraph]
 date: 2018-07-01 01:01:01
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sample Modify Post"
-excerpt: "Try click on the link icon."
+excerpt: ""
 categories: [link post]
 link: http://esteeparks.github.io
 share: true
