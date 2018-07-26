@@ -15,7 +15,7 @@ comments: true
 
 ##### Specify in CSS: use the following CSS properties  to specify these families:
 
-![font_ko_1](https://previews.dropbox.com/p/thumb/AALa0qT2LqvckpAysR8-u8P3VRrn1MkO3J90V85Vz5Xf3TzjqXJcREaa0ufZX6c9REIt_PZSOvKrXmU6vGoBsBB_7iAuWnW2X2CoxJ1m_rZQoPDNLwtgUGIWpNO9KpoMFEfFkXq_vTF1-CfceOhFQzKJB1vU3j7o5nCPMkC4_1uOX4cVekrbBOC7IlcN7a3IFY89W_opj-rtfBlYYW-vjmFj7bb7xF7fuLnYEKrnO2PehQ/p.png?size=2048x1536&size_mode=3){: width="33%"}
+![font_ko_1](https://previews.dropbox.com/p/thumb/AALa0qT2LqvckpAysR8-u8P3VRrn1MkO3J90V85Vz5Xf3TzjqXJcREaa0ufZX6c9REIt_PZSOvKrXmU6vGoBsBB_7iAuWnW2X2CoxJ1m_rZQoPDNLwtgUGIWpNO9KpoMFEfFkXq_vTF1-CfceOhFQzKJB1vU3j7o5nCPMkC4_1uOX4cVekrbBOC7IlcN7a3IFY89W_opj-rtfBlYYW-vjmFj7bb7xF7fuLnYEKrnO2PehQ/p.png?size=2048x1536&size_mode=3){: width="50%" position="left"}
 
 ![font_ko_2](https://previews.dropbox.com/p/thumb/AALtZnfV7YNebYa89QhQbTLV-CpulpIhjKf6FZ2pYpTwiUkQxAfKKg-UPMpUY8NBLAp3CAdawze5s-ddR15dJOC9-bd2P6Z8EYkxnuiYgTlj_WfsYE54UoEQKKJV7w6YRfDVkFF-m461PS1oRN_VriJRSFPdY1qnT6A6XTRlS4MF8Q/p.png?size=2048x1536&size_mode=3)
 
