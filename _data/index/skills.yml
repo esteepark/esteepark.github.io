@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, CLI, Python, Planning, Design, Communication
-percentage: 100, 55, 55, 70, 70, 90
+aspects: Motivation, GA, Python, Service Design, UXUI Design, Communication
+percentage: 100, 30, 30, 70, 70, 80
