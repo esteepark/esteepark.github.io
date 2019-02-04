@@ -7,6 +7,7 @@ date: 2019-02-04 15:00:00
 comments: true
 ---
 
+`1`
 모집중
 강남캠퍼스
 월 / 저녁 08:00~10:00
@@ -30,7 +31,7 @@ DeepLAB 논문반
     - 김승일 (모두의연구소)
 
 
-
+`2`
 모집마감 / 화
 강남캠퍼스
 화 / 저녁 8:00~10:00
@@ -53,7 +54,7 @@ DataLAB
     김승일 (모두의연구소)
 
 
-
+`3`
 모집중
 화 / 저녁 7:30~9:30
 FunLAB
@@ -75,7 +76,7 @@ FunLAB
     -유수호(모두의연구소)
 
 
-
+`4`
 모집대기
 개포캠퍼스
 수 / 저녁 7:30~9:30
@@ -99,7 +100,7 @@ Biomedical 시즌2
     오상준
 
 
-
+`5`
 모집마감
 강남캠퍼스
 수 / 저녁 8:00~10:00
@@ -127,7 +128,7 @@ Deep NLP
     Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, they live.
 
 
-
+`6`
 모집마감
 강남캠퍼스
 목 / 저녁 7:30~9:30
@@ -908,4 +909,3 @@ Fundamental NLP(자연어 처리의 원리)
 
     랩짱
     김민현(커먼컴퓨터)
-
