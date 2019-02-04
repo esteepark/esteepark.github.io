@@ -2,7 +2,7 @@
 layout: post
 title: "[어벤져스] 모두의 연구소 어벤져스 영어탐험"
 excerpt: ""
-categories: [paragraph]
+categories: [modulabs]
 date: 2018-07-21 19:30:00
 comments: true
 ---

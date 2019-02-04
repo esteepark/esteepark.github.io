@@ -2,7 +2,7 @@
 layout: post
 title: "국내 AI 스타트업"
 excerpt: ""
-categories: [paragraph]
+categories: [entrepreneur]
 date: 2018-08-10 15:00:00
 comments: true
 ---

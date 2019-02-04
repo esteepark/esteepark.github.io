@@ -2,7 +2,7 @@
 layout: post
 title: " The Eisenhower Method "
 excerpt: ""
-categories: [paragraph]
+categories: [wisdom]
 date: 2018-07-19 10:23:00
 comments: true
 ---

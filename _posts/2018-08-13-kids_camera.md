@@ -2,7 +2,7 @@
 layout: post
 title: "카메라산업 관련 정보"
 excerpt: ""
-categories: [paragraph]
+categories: [entrepreneur]
 date: 2018-08-13 13:00:00
 comments: true
 ---
@@ -12,7 +12,7 @@ comments: true
 [ip카메라란](https://m.blog.naver.com/PostView.nhn?blogId=cnc5667&logNo=10145840686&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
 [ip카메라 브런치 정리글](https://brunch.co.kr/@hj1003/72)
- 
+
 [ip카메라와 cctv](https://www.linux.co.kr/home2/board/subbs/board.php?bo_table=termboard&wr_id=367)
 
 [ip카메라 해킹 문제](http://daejeonitfriend.tistory.com/395)
@@ -43,33 +43,33 @@ comments: true
     - 구성 = 바디 + 렌즈
     - 퀄리티 압도적
     - 전문성 매우 짙음
-    - 기기활용 진입장벽 높음 
+    - 기기활용 진입장벽 높음
     - 고가
 
 - 미러리스 카메라
-    - DSLR보다 작고 가벼움 
+    - DSLR보다 작고 가벼움
     - 구성 = 바디 + 렌즈
     - DSLR보다 낮은 퀄리티
     - 뷰파인더 보통 없음, 있는 것 DSLR보다 선명함 떨어짐
-    - 휴대성과 퀄리티 절충안 
+    - 휴대성과 퀄리티 절충안
     -  고가
 
 - 컴팩트 카메라(똑딱이 카메라)
     - 가볍고 휴대성 좋음
     - 구성 = 일체형, 렌즈 교체 불가
-    - 섬세/자유로운 설정 어려움, 퀄리티 부족 
-    - 휴대성과 가성비 
+    - 섬세/자유로운 설정 어려움, 퀄리티 부족
+    - 휴대성과 가성비
     - 상대적 저가
 
 카메라를 구매하는 데 **개인의 취향** 중요하게 작용
 
 ---
 
-#### 다양한 카메라 
+#### 다양한 카메라
 
 ##### 필름카메라
 
-[키티캐릭터 후지필름 카메라-129,000](http://www.coupang.com/vp/products/560652?src=1012015&spec=10506208&addtag=400&ctag=560652&lptag=pc&itime=20180812233105&wPcid=71586381927897699237136&wRef=&wTime=20180812233105&redirect=landing&forceBypass=Y&sid=BAND_a&pageType=PRODUCT&pageValue=560652)	
+[키티캐릭터 후지필름 카메라-129,000](http://www.coupang.com/vp/products/560652?src=1012015&spec=10506208&addtag=400&ctag=560652&lptag=pc&itime=20180812233105&wPcid=71586381927897699237136&wRef=&wTime=20180812233105&redirect=landing&forceBypass=Y&sid=BAND_a&pageType=PRODUCT&pageValue=560652)
 
 
 = = =
@@ -102,6 +102,3 @@ comments: true
 ---
 
 [TJ BearyTales Sings His Song](https://www.youtube.com/watch?v=pltLdb93fVY)
-
-
-

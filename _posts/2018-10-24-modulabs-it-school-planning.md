@@ -2,7 +2,7 @@
 layout: post
 title: "공과대학 자료"
 excerpt: ""
-categories: [it-school]
+categories: [modulabs]
 date: 2018-10-24 18:00:00
 comments: true
 ---

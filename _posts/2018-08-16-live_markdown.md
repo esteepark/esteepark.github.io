@@ -2,7 +2,7 @@
 layout: post
 title: "vim에서 마크다운 활용하기(Previm, livedown, mermaid)"
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-08-16 15:00:00
 comments: true
 ---

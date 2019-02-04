@@ -2,7 +2,7 @@
 layout: post
 title: "서울혁신챌린지 - 마지막 네트워킹"
 excerpt: ""
-categories: [paragraph]
+categories: [entrepreneur]
 date: 2018-09-07 15:00:00
 comments: true
 ---

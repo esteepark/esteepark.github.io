@@ -2,7 +2,7 @@
 layout: post
 title: "Learn git branchin"
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-07-15 00:00:00
 comments: true
 ---
@@ -96,7 +96,7 @@ main
 
   >```
   > - ~(틸드)<num> = 한번에 num 만큼의 커밋 위로 올라가는 상대 커밋
-  > 
+  >
   > git checkout HEAD~4    # 현재 HEAD의 4번째 전 커밋으로 이동
   > git branch -f master HEAD~3    # 현재 HEAD의 3번째 전 커밋으로 master 브랜치 이동
   >```
@@ -104,9 +104,9 @@ main
 -	작업 되돌리기
 > ```
 > - 낮은 수준의 일(개별 파일이나 묶음을 스테이징 하는 것)과 높은 수준의 일(실제 변경이 복구되는 방법) 있음
-> - reset = 애초에 커밋하지 않은 것처럼 예전 커밋으로 브랜치를 옮기는 것, 
->           브랜치가 예전의 커밋을 가리키도록 이동 
-> - revert = 변경분을 되돌리고 되돌린 내용을 사람들에게 공유하기 위해서는 revert를 사용해야 함, 
+> - reset = 애초에 커밋하지 않은 것처럼 예전 커밋으로 브랜치를 옮기는 것,
+>           브랜치가 예전의 커밋을 가리키도록 이동
+> - revert = 변경분을 되돌리고 되돌린 내용을 사람들에게 공유하기 위해서는 revert를 사용해야 함,
 >            히스토리를 고쳐쓴다는 점 때문에 다른 사람이 작업하는 리모트 브랜치에는 reset을 사용할 수 없음
 >
 > git reset HEAD~1    # 현재 HEAD의 부모 커밋으로 이동하며 현재 HEAD가 위치했던 커밋은 없었던 것과 마찬가지인 상태가 됨

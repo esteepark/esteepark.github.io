@@ -2,7 +2,7 @@
 layout: post
 title: "ET - kt&g demoday"
 excerpt: ""
-categories: [paragraph]
+categories: [entrepreneur]
 date: 2018-07-17 15:15:15
 comments: true
 ---

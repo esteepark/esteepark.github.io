@@ -2,7 +2,7 @@
 layout: post
 title: "make web service using react js"
 excerpt: ""
-categories: [dev-front]
+categories: [dev]
 date: 2019-01-02 19:00:00
 comments: true
 ---
@@ -30,15 +30,11 @@ yarn start // js의 모든 코드를 가져와 html 파일에 담음(movie_app/p
 // Edit src/App.js and save to reload.
 ```
 
-component design for movie_app 
+component design for movie_app
 - first, movie list component
 - second, movie card component
 - third, movie cover component
 
 jsx
-- html이 자바스크립트 안에 있는 구조 
+- html이 자바스크립트 안에 있는 구조
 - 리액트 컴포넌트 만들때 사용하는 언어
-
-
-
-

@@ -2,7 +2,7 @@
 layout: post
 title: "2018 보이는 미래 컨퍼런스"
 excerpt: ""
-categories: [paragraph]
+categories: [entrepreneur]
 date: 2018-09-06 09:00:00
 comments: true
 ---

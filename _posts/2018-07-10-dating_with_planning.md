@@ -2,7 +2,7 @@
 layout: post
 title: "기획과 연애하다"
 excerpt: ""
-categories: [paragraph]
+categories: [service design]
 date: 2018-07-10 00:00:00
 comments: true
 ---

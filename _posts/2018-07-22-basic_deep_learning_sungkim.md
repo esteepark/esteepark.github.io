@@ -2,7 +2,7 @@
 layout: post
 title: "Basic Machine/Deep learning with Tensorflow(python)"
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-07-22 06:50:00
 comments: true
 ---

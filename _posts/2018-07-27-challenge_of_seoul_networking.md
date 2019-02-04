@@ -2,7 +2,7 @@
 layout: post
 title: "서울혁신챌린지 네트워킹 내용 정리"
 excerpt: ""
-categories: [paragraph]
+categories: [entrepreneur]
 date: 2018-07-27 15:30:00
 comments: true
 ---

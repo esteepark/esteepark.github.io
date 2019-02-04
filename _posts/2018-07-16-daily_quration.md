@@ -2,7 +2,7 @@
 layout: post
 title: "Daily-Quration-180716"
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-07-16 00:00:00
 comments: true
 ---

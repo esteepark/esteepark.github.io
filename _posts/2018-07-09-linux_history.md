@@ -2,7 +2,7 @@
 layout: post
 title: "Linux History"
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-07-09 00:00:00
 comments: true
 ---
@@ -40,7 +40,7 @@ Users > Applications > Shell > Kernel > H/W
 
 #### 리눅스의 역사 및 커널
 - 리차드 스톨만 Richard M. Stallman
-    - MIT 인공지능 연ㅅ구소 연구원 
+    - MIT 인공지능 연ㅅ구소 연구원
     - 기업을 중심으로 소스를 공개하지 못하도록하는 분위기, 기술을 사업화 하려는 조류에 반감
     - 1983년, GNU(GNU is Not Unix) 프로젝트 시작
     - 1985년, Emacs에 대한 사용자 관심 증대, 자유 소프트웨어 재단(FSF: Free Software Foundation)을 설립(GNU 프로젝트 위해)
@@ -55,7 +55,7 @@ Users > Applications > Shell > Kernel > H/W
     - 1996년 6월, 2.0버전, SMP 기능 추가
     - 1999년 1월, 2.2버전, 최대 16개의 CPU 지원과 최대 동시접속 사용자 2,048명까지 지원
     - 2001년 1월, 2.4버전 릴리즈
-    - 현재, 2.6버전 
+    - 현재, 2.6버전
 
 - 리눅스 이름의 유래: 아리람케라(ftp.funet.fi사이트의 운영자)는 사람이 LINUs' miniX => LINUX폴더를 만들어 토발즈에게 제공한 것이 유래--(토발즈는 우너래 Freaxㅍ프릭스로 하려 했음)
 
@@ -73,18 +73,16 @@ Users > Applications > Shell > Kernel > H/W
 - 유닉스의 특징 포함
     - multi-user가 동시에 사용할 수 있는 환경을 제공
     - multi-tasking 환경 제공(win98 이후)
-    - 트리 형태의 계층적 구조로된 파일 시스템 
+    - 트리 형태의 계층적 구조로된 파일 시스템
     - 풍부한 소프트웨어 개발환경 제공(거의 모든 프로그래밍 언어)
     - 강력한 네트워킹 기능 제공
- 
+
 저자: 표월성(passwd74@cherub.sungkyul.edu)(http://cherub.sungkyl.edu/~web)
 
 
 ---
 
-> /' 의 의미 
-- 패스 
-- 권한 
+> /' 의 의미
+- 패스
+- 권한
 - 루트
-
-

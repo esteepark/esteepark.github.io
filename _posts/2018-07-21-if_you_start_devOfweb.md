@@ -2,7 +2,7 @@
 layout: post
 title: "개알못인 당신이 웹개발을 시작한다면"
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-07-21 02:22:00
 comments: true
 ---

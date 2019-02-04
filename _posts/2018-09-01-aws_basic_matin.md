@@ -2,7 +2,7 @@
 layout: post
 title: "aws basic with Matin Hwang"
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-09-01 20:00:00
 comments: true
 ---

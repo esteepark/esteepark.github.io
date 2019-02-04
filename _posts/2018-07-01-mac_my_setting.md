@@ -2,7 +2,7 @@
 layout: post
 title: "mac - MySetting "
 excerpt: ""
-categories: [paragraph]
+categories: [dev]
 date: 2018-07-01 01:01:01
 comments: true
 ---

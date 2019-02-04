@@ -2,7 +2,7 @@
 layout: post
 title: "IoT 특허 자료 모음"
 excerpt: ""
-categories: [paragraph]
+categories: [entrepreneur]
 date: 2018-08-15 15:00:00
 comments: true
 ---

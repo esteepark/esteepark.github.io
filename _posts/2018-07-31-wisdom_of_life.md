@@ -2,7 +2,7 @@
 layout: post
 title: "삶의 지혜를 쌓는 공간"
 excerpt: ""
-categories: [paragraph]
+categories: [wisdom]
 date: 2018-07-31 18:00:00
 comments: true
 ---
